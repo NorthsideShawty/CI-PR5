@@ -1,1 +1,1 @@
-# Repository for practice #5
+# Repository for practice #5 CICD
